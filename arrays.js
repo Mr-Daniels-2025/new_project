@@ -4,3 +4,9 @@ var numbers = [1,2,3,4];
 
 var boleans = [age = false, height = true, weight = false, eyes = true];
 console.log(boleans[0]);
+arrayString.pop();
+console.log(arrayString);
+numbers.push(1);
+console.log(numbers);
+boleans.slice(2,3);
+console.log(boleans);
